@@ -2,9 +2,13 @@ puppeteerが重すぎて、gitにあげれませんでした、、
 
 ですので、テストする場合は
 yarnを使えるようにする
+
 ↓
+
 yarn add puppeteer --dev
+
 ↓
+
 node test.js
 
 で動きます
